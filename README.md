@@ -1,7 +1,7 @@
 # How to Put on a Sock
 
 ###### Projection and Interaction Design (with [Giada Sun](https://giada1198.github.io/Giada-Portfolio/) and [SooA Kim](http://www.sooakim.com/))  
-###### Carnegie Mellon University, School of Drama, created and directed by Rachel Karp"  
+###### Carnegie Mellon University, School of Drama, created and directed by Rachel Karp
 ###### Summer-Fall 2017
 
 *The project has been selected for inclusion in the Emerging Exhibit from the USA for [2019 Prague Quadrennial](http://www.pq.cz/) and [USITT Stage Expo 2019](https://www.usittshow.com/stage-expo).*
@@ -36,7 +36,7 @@ In several scenes, we generated **visualizations of polling results** and projec
 
 ## Full documentation
 
-[Download pdf](/sock_deck.pdf)
+[Download documentation as pdf](/sock_deck.pdf)
 
 <img src="/sock_deck:sock_deck_page_1.jpg" width="800px"/>
 <img src="/sock_deck:sock_deck_page_2.jpg" width="800px"/>
